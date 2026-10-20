@@ -1,16 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1917" height="1016" alt="Captura de tela 2026-10-20 020633" src="https://github.com/user-attachments/assets/72e1db7d-c038-4871-b02c-49c903a6fac6" />
+<img width="1917" height="1016" alt="Captura de tela 2026-10-20 020642" src="https://github.com/user-attachments/assets/dd5bc78c-97c4-4df4-b431-f08d376ca9ab" />
+<img width="1917" height="1013" alt="Captura de tela 2026-10-20 020726" src="https://github.com/user-attachments/assets/32ddc86d-44aa-42d5-ac64-6a775a9909a9" />
